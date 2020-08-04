@@ -1,0 +1,28 @@
+User Stories
+
+HomePage = Furkan
+1. User should be able sign in, check user name, enter 2 room 4 adulta, 2 children, enter Austin and verify
+
+Flights = Mumin
+2. User should be able sign in, user is able close alert, usr is chose cheapest then change time by slider, then list the price and order them
+
+Hotels = Emine
+3. User should be able sign in, user is able to pick first result when entered Memphis and pick up date
+
+
+Vacation Rentals = Turker
+4. User should be able sign in, user is able to chose Las Vegas Vacation Rentals then verify you are in correct page, check the price in September
+
+
+
+Cars = Guru
+5. User should be able sign in, user is able to lis all the  rental cars by destination, an click on  Orlando verify it, user is able to chose premium SUV
+
+
+
+Package = Aysegul
+6. User should be able sign in, user is able to list all the vacation deals by destination, chose one of the package, verify you are in correct page
+
+
+
+
